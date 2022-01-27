@@ -6,4 +6,4 @@ Desafio de projeto sobre Git/GitHub<br>
 
 [Sintaxe_Basica_Markdown](https://www.markdownguide.org/basic-syntax) 
 <br>
-[Onde_perquisar_para_baixar_cursos_e_conteudos_em_torrent](https://kr.bt4g.org/)
+[Onde_pesquisar_para_baixar_cursos_e_conteudos_em_torrent](https://kr.bt4g.org/)
